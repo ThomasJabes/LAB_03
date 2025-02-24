@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\Debug\LAB_03.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB_03.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB_03.map</FILE>
+  <FILE>LAB_03.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>37</LINE></SETUP>
+  <ISR_PCINT0><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>125</LINE></ISR_PCINT0>
+  <TIMER0><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>91</LINE></TIMER0>
+  <TABLA><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>24</LINE></TABLA>
+  <LOOP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>84</LINE></LOOP>
+  <DISPLAY_SEG><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>181</LINE></DISPLAY_SEG>
+  <DISPLAY_SEG_DECENAS><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>198</LINE></DISPLAY_SEG_DECENAS>
+  <END_ISR><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>117</LINE></END_ISR>
+  <revisar_PB4><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>148</LINE></revisar_PB4>
+  <SALIR_ISR><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>162</LINE></SALIR_ISR>
+  <DELAY><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>215</LINE></DELAY>
+  <RET1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>217</LINE></RET1>
+  <RET2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\LAB_3\LAB_03\LAB_03\LAB_03\main.asm</FILE><LINE>219</LINE></RET2>
+ </LABELS>
+</ASSEMBLER_INFO>
